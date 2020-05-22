@@ -1,2 +1,1 @@
-
-dawanie funkcjonalnosci .
+dodawanie wszystkich funkcjonalnosci.
